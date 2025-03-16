@@ -1,4 +1,8 @@
-## Brother Bear 
+---
+title: "Brother Bear"
+date: 2023-08-02
+draft: false
+---
 
 Some studies from Brother Bear and also John Nevarez. Stylistically, Brother Bear leans pretty heavily into realism.
 Thus I can understand why audience reception of the film noted that the animation was "weak"— it doesn't push the medium and feel snappy in the way that great animation _can_ feel. It is, however, nice to take a look at how they drew bears 2D.

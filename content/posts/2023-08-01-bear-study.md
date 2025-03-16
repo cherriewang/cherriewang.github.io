@@ -1,4 +1,8 @@
-## Bear Studies
+---
+title: "Bear Studies"
+date: 2023-08-01
+draft: false
+---
 
 Periodically, I identify areas or subjects of drawing that I'd like to improve at. Most recently, it's bears. The resulting action is usually me taking a few days to sit with it and grind through a lot of drawings—though most of this never sees the light of day. 
 

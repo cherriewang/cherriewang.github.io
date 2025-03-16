@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Digital Sketch Notes</title>
+    <link>http://localhost:1313/my-blog/</link>
+    <description>Recent content on Digital Sketch Notes</description>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/my-blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/my-blog/posts/my-first-post/</link>
+      <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/my-blog/posts/my-first-post/</guid>
+      <description>&lt;p&gt;This is my first blog post using Hugo. Me like simple things.&lt;/p&gt;
+&lt;h2 id=&#34;what-me-learned-today&#34;&gt;What me learned today&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Hugo very fast&lt;/li&gt;
+&lt;li&gt;Static sites good&lt;/li&gt;
+&lt;li&gt;No database mean no problem&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

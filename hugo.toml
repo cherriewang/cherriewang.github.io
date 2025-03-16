@@ -1,0 +1,25 @@
+baseURL = "https://cherriewang.github.io/my-blog/"
+languageCode = "en-us"
+title = "Digital Sketch Notes"
+theme = "PaperMod"
+
+[params]
+  description = "My personal blog"
+  author = "Cherrie Wang"
+  
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 10
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts/"
+    weight = 20
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 30

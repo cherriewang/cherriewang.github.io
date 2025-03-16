@@ -1,4 +1,9 @@
-## A Smattering of Sources
+---
+title: " A Smattering of Sources"
+date: 2023-08-03
+draft: false
+---
+
 It's crazy that the internet enables me to open up a browser and find art from amazing artists of exactly the subject that I'm trying to study.
 That's insane! Style is so interesting, I love to sit here and synthesize. 
 
@@ -31,13 +36,4 @@ Tons of bear designs out there! Think I probably could've pulled even more but h
 
 Reminds of me of a tweet (rip) that I saw some time back that went along the lines of "are you lazy? or are you comparing yourself against the creative output of literally the entire internet?" 
 That struck me because ... well, yes I do always feel like I should be drawing more, creating more, especially when I see so much stuff constantly being pumped out on the internet. But that is also the product of hundreds of thousands of millions of artists' work over weeks, months, years. 
-
-
-<script src="https://utteranc.es/client.js"
-    repo="cherriewang/cherriewang.github.io"
-    issue-term="pathname"
-    theme="github-dark"
-    crossorigin="anonymous"
-    async>
-</script>
 
